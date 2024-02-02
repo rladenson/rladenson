@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Petal! 
+---
+I am a Software Engineer who really enjoys the nitty gritty work of tweaking the code and putting building blocks together to find solutions. In my own time, I work on projects for fun and to increase accessibility, specifically making shortcuts for things that were previously possible but very tedious. I want to bring my passion for problem solving to help make systems easier to use, more intuitive, and more accessible for end users.
 
 <!--
 **rladenson/rladenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
